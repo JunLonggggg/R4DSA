@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to R for Data Science and Analytics",
+    "description": "This blog consists of a collection of R tutorials, notebooks, tips and tricks. We hope you enjoy reading what we have to say!",
+    "author": [
+      {
+        "name": "Toh Jun Long",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-08-17",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-17T21:55:26+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
